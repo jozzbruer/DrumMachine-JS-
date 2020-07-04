@@ -17,4 +17,17 @@
     height: 660px;
     /* background: blue; */
     border: 1px solid #fff;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.key{
+  background-color: #fff;
+  color: #000;
+  border-radius: 5px;
+  
+}
+kbd{
+    padding: 80px;
+    font-size: 150%;
 }
