@@ -1,5 +1,20 @@
 .main{
-    width: 300px;
-    height: 500px;
+    width: 1000px;
+    height: 880px;
     background: black;
+    margin: auto;
+}
+
+.control{
+    width: 98%;
+    height: 150px;
+    /* background: red; */
+    border: 1px solid #fff;
+
+}
+.pad{
+    width: 98%;
+    height: 660px;
+    /* background: blue; */
+    border: 1px solid #fff;
 }
